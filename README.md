@@ -1,8 +1,8 @@
 # BoxRate </br>
 
 @Member Author
-Andika Pratama			1608107010018
-Puti Finalia Nasir		1608107010017
-Putri Zainidar			1608107010043
-Said Jumadil Akbar		1608107010065
-Ferizal Gunawan			1608107010051
+</br>Andika Pratama			1608107010018
+</br>Puti Finalia Nasir		1608107010017
+</br>Putri Zainidar			1608107010043
+</br>Said Jumadil Akbar		1608107010065
+</br>Ferizal Gunawan		1608107010051
